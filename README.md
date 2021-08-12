@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amishsatish&show_icons=true&theme=dark&hide_border=true&locale=en" alt="amishsatish" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amishsatish&theme=dark" alt="amishsatish" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amishsatish&theme=dark&hide_border=true" alt="amishsatish" /></p>
