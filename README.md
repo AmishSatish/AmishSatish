@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishsatish&label=Profile%20views&color=0e75b6&style=flat" alt="amishsatish" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, Vue.js**
+- 🌱 I’m currently learning:- **HTML, CSS, JS, Vue.js**
 
-- 💬 Ask me about **Developing ML models in Python, Azure, PowerBi, Tableau, GCS, JIRA, Data Science.**
+- 💬 Ask me about:- **Developing ML models in Python, Azure, PowerBi, Tableau, GCS, JIRA, Data Science.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/amish22/**
+- 📫 How to reach me:- **https://www.linkedin.com/in/amish22/**
 
-- 📄 Know about my experiences [https://github.com/AmishSatish/AmishSatish/blob/8101c91edeb8357f87524e097db041caccb26e87/Resume_3rd_August_2021_final.pdf](https://github.com/AmishSatish/AmishSatish/blob/8101c91edeb8357f87524e097db041caccb26e87/Resume_3rd_August_2021_final.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/AmishSatish/AmishSatish/blob/8101c91edeb8357f87524e097db041caccb26e87/Resume_3rd_August_2021_final.pdf)
 
 - ⚡ Fav TV quote **The rest is confetti.**
 
