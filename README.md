@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AmishSatish&show_icons=true&count_private=true&show_icons=true&theme=synthwave)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AmishSatish&show_icons=true&count_private=true&show_icons=true&theme=highcontrast)
 
 <!--
 **AmishSatish/AmishSatish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
