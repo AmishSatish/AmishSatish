@@ -33,6 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amishsatish&theme=dark&hide_border=true" alt="amishsatish" /></p>
 
-## 😂 Here is a random joke that'll make you laugh!
+## 😂 Here is a random joke
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=bear)
