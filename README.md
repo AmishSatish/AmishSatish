@@ -1,4 +1,4 @@
-![alt text](https://github.com/AmishSatish/AmishSatish/blob/dfd13329b2dc3db997b5bc4157c2b7ee23cf33c6/77777_mod.jpg?raw=true)
+![alt text](https://github.com/AmishSatish/AmishSatish/blob/dfd13329b2dc3db997b5bc4157c2b7ee23cf33c6/77777_mod.jpg)
 <h1 align="center">Hi 👋, I'm Amish</h1>
 <h3 align="center">Self-motivated aspiring Data Scientist from India with a strong work ethic striving to seize viable opportunities in the IT industry.</h3>
 
