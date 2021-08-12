@@ -2,6 +2,9 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AmishSatish&show_icons=true&count_private=true&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmishSatish&repo=github-readme-stats)](https://github.com/AmishSatish/github-readme-stats)
+
+
 <!--
 **AmishSatish/AmishSatish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
