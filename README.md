@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amish</h1>
 <h3 align="center">Self-motivated aspiring Data Scientist from India with a strong work ethic striving to seize viable opportunities in the IT industry.</h3>
 
-<p align="left"> ![GitHub Contributors Image](https://contrib.rocks/image?repo=AmishSatish/AmishSatish) </p>
+![GitHub Contributors Image](https://contrib.rocks/image?repo=AmishSatish/AmishSatish)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishsatish&label=Profile%20views&color=0e75b6&style=flat" alt="amishsatish" /> </p>
