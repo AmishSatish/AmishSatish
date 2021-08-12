@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AmishSatish&show_icons=true&count_private=true&show_icons=true&theme=radical&hide=stars,prs,issues,contribs)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AmishSatish&show_icons=true&count_private=true&show_icons=true&theme=radical&hide=stars,contribs)
 
 
 <!--
