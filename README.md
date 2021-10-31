@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishsatish&label=Profile%20views&color=0e75b6&style=flat" alt="amishsatish" /> </p>
 
-- 🌱 I’m currently learning:- **_HTML, CSS, JS, Vue.js_**
+- 🌱 I’m currently learning:- **_In-Depth Analysis of Python_**
 
 - 💬 Ask me about:- **_Developing ML models in Python, Azure, PowerBi, Tableau, GCS, JIRA, Data Science._**
 
