@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishsatish&label=Profile%20views&color=0e75b6&style=flat" alt="amishsatish" /> </p>
 
-- 🌱 I’m currently learning:- **_Code optimization and speed up in Python_**
+- 🌱 I’m currently learning:- **_Code optimization and speed up in Python, PySpark, FastAPI_**
 
-- 💬 Ask me about:- **_Developing ML models in Python, Azure, PowerBi, Tableau, GCS, JIRA, Data Science._**
+- 💬 Ask me about:- **_Developing ML models in Python, Azure Data Factory, Azure ML Studio, FastAPI, PowerBi, Tableau, GCS, JIRA, Data Science._**
 
 - 📫 How to reach me:- **_[LinkedIn](https://www.linkedin.com/in/amish22/)_**
 
-- 📄 Know about my experiences [_Resume_](https://github.com/AmishSatish/AmishSatish/blob/fe6a27be1bcdce5b0f68a1e705f961a42c954817/Amish_Satish_Resume_31OCT2021.pdf)
+- 📄 Know about my experiences [_Resume_](https://github.com/AmishSatish/AmishSatish/blob/9ecba3e1f7d31e78180ad6513a0257250fb87256/Amish's%20Resume_10_feb_2022_v2.pdf)
 
 - ⚡ Fav TV quote:- **_The rest is confetti._**
 
