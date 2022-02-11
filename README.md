@@ -13,7 +13,7 @@
 
 - 📫 How to reach me:- **_[LinkedIn](https://www.linkedin.com/in/amish22/)_**
 
-- 📄 Know about my experiences [_Resume_](https://github.com/AmishSatish/AmishSatish/blob/9ecba3e1f7d31e78180ad6513a0257250fb87256/Amish's%20Resume_10_feb_2022_v2.pdf)
+- 📄 Know about my experiences [_Resume_](https://github.com/AmishSatish/AmishSatish/blob/a470825241043576811ee2d0605041581838ac45/Amish's%20Resume_10_feb_2022_v2.pdf)
 
 - ⚡ Fav TV quote:- **_The rest is confetti._**
 
